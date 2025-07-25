@@ -8,5 +8,6 @@
   
 <span style="font-size: 2.5em;">**A coder and cinephile.**  
 Check me out on <a href="https://letterboxd.com/rhvetican/">letterboxd</a>.</span>
+<span style="font-size: 2.5em;">**btw i use arch..**  
 
 </div>
